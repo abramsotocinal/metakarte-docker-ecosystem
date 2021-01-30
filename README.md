@@ -1,0 +1,1 @@
+# metakarte-docker-swarm
